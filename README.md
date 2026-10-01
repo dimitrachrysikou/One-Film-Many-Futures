@@ -1,11 +1,11 @@
 🎯 Επισκόπηση Project
 
-Το παρόν project αφορά τη δημιουργία, επιμέλεια και τεκμηρίωση ενός κριτικού frame-level dataset εικόνων από την public-domain ταινία *House on Haunted Hill (1959)*.
-Στόχος είναι η μελέτη των οπτικών μοτίβων (αντικείμενα, σώματα, χώροι, props) και των αφηγηματικών τους λειτουργιών, καθώς και η διενέργεια ενός μικρού audit με τη χρήση προεκπαιδευμένου μοντέλου Object Detection (YOLOv8).
+
+This project involves the creation, curation, and documentation of a critical frame-level image dataset from the public-domain film *House on Haunted Hill (1959)*. The objective is to analyze visual motifs (objects, bodies, spaces, props) and their narrative functions, as well as to conduct a concise audit using a pre-trained Object Detection model (YOLOv8).
 
 ---
 
-## 📁 Δομή Φακέλων και Αρχείων
+## 📁Folder and File Structure
 
 ```text
 one_film_many_futures_groupXX/
